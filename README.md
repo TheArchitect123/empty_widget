@@ -1,3 +1,7 @@
+# ORIGINAL PACKAGE IS NO LONGER IN MAINTANANCE PLEASE USE THIS PUB LINK TO DOWNLOAD THE LATEST PACKAGE
+https://pub.dev/packages/empty_widget_fork
+
+
 ## Empty Widget  
 
 
