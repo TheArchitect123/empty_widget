@@ -1,6 +1,6 @@
 import 'dart:math';
-import 'package:empty_widget/src/helper.dart';
-import 'package:empty_widget/src/utility.dart';
+import 'package:empty_widget_fork/src/helper.dart';
+import 'package:empty_widget_fork/src/utility.dart';
 import 'package:flutter/material.dart';
 part 'images.dart';
 
@@ -193,13 +193,13 @@ class _EmptyListWidgetState extends State<EmptyWidget>
         Theme.of(context)
             .typography
             .dense
-            .headline5!
+            .headlineSmall!
             .copyWith(color: Color(0xff9da9c7));
     _subtitleTextStyle = widget.subtitleTextStyle ??
         Theme.of(context)
             .typography
             .dense
-            .bodyText1!
+            .bodyLarge!
             .copyWith(color: Color(0xffabb8d6));
     _packageImage = widget.packageImage;
 

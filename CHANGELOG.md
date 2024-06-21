@@ -1,3 +1,5 @@
+## [0.0.6] 10 Jun 2021
+* New Fork of Original Library
 ## [0.0.4] 10 Jun 2021
 * Add `hideBackgroundAnimation` property to hide background  circular animation
 ## [0.0.4] 04 Jun 2021
